@@ -1,5 +1,5 @@
-# Adversarial-Robustness-CIFAR10
-# Vulnerability and Defense of CNNs against Adversarial Attacks (CIFAR-10)
+# Adversarial-Robustness-CIFAR100
+# Vulnerability and Defense of CNNs against Adversarial Attacks (CIFAR-100)
 
 This repository contains the code and experimental results for a research project investigating the vulnerability of Convolutional Neural Networks (CNNs) to adversarial perturbations, specifically focusing on the linear nature of neural networks as proposed by Goodfellow et al. (2015).
 
